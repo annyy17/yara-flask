@@ -1,0 +1,4 @@
+Flask
+gunicorn
+yara-python
+Werkzeug
